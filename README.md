@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I'm secretly leveling up to become a DevOps ninja! #TeamKakashi! 🍥🍃💻**
 
+[![gueye-fatou's GitHub | Stats](https://stats.quine.sh/gueye-fatou/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gueye-fatou)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fatou__gueye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatou__gueye" height="30" width="40" /></a>
