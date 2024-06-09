@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Devops Engineer from UTBM</h3>
 
 
-- 🔭 I’m currently working on **AWS CloudOps Monitoring Project**
+- 🔭 I’m currently working on **AWS DevOps CI/CD Project**
 
-- 🌱 I’m currently learning **AWS, Kubernetes, Azure, and a fancy monitoring tool (any ideas?)**
+- 🌱 I’m currently learning **AWS, Kubernetes, Jenkins and Ansible**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gueye-fatou](https://github.com/gueye-fatou)
 
