@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Azure, and a fancy monitoring tool (any ideas?)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Binetou1996](https://github.com/Binetou1996)
+- 👨‍💻 All of my projects are available at [https://github.com/gueye-fatou](https://github.com/gueye-fatou)
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
