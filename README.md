@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Jenkins and Ansible**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gueye-fatou](https://github.com/gueye-fatou)
-
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+- 👨‍💻 All of my projects are available at [https://github.com/gueye-fatou?tab=repositories](https://github.com/gueye-fatou/repositories)
 
 - 💬 Ask me about **Docker, Python, Linux, Git**
 
