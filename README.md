@@ -6,15 +6,13 @@
 
 - 🌱 I’m currently learning **AWS, Kubernetes, Jenkins and Ansible**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gueye-fatou?tab=repositories](https://github.com/gueye-fatou/repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/gueye-fatou/repositories](https://github.com/gueye-fatou?tab=repositories)
 
 - 💬 Ask me about **Docker, Python, Linux, Git**
 
 - 📫 How to reach me **fatoubinetou196@gmail.com**
 
 - ⚡ Fun fact **I'm secretly leveling up to become a DevOps ninja! #TeamKakashi! 🍥🍃💻**
-
-[![gueye-fatou's GitHub | Stats](https://stats.quine.sh/gueye-fatou/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gueye-fatou)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
